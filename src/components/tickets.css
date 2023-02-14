@@ -1,0 +1,15 @@
+.card-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-form__item{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 10px;
+}
+.card-form__btn{
+    background-color: rgb(10, 116, 209);
+    color: white;
+}
